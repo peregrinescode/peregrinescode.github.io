@@ -1,8 +1,43 @@
 @import url(//fonts.googleapis.com/css?family=Lato:300,700,300italic);
 
+
+/***********************Layout****************************/
+
+@media screen and (max-width: 399px) {
+    html {
+        font-size: 13pt;
+    }
+    body {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 1399px) and (min-width: 400px) {
+    html {
+        font-size: 13pt;
+    }
+    body {
+        max-width: 100vw;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    html {
+        font-size: 15pt;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    .masthead {
+        border-right: 0px;
+        border-left: 0px;
+    }
+}
+
+
 /**********************Font and layout********************/
+
 body {
-  font-size: 15pt;
   width: 37.5em;
   margin: 0 auto;
   font-family: Lato, Verdana, sans-serif;
