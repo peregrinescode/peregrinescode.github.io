@@ -27,13 +27,6 @@
     }
 }
 
-@media only screen and (max-device-width: 480px) {
-    .masthead {
-        border-right: 5px;
-        border-left: 5px;
-    }
-}
-
 @media print {
     html {
         font-size: 10pt;
@@ -62,6 +55,12 @@ body {
 
 h1 {
   font-size: 2em
+  color: black;
+  margin: 1.2rem 0px;
+}
+
+h2 {
+  font-size: 1.5em
   color: black;
   margin: 1.2rem 0px;
 }
