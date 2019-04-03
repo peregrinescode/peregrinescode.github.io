@@ -34,6 +34,20 @@
     }
 }
 
+@media print {
+    html {
+        font-size: 10pt;
+    }
+
+    .masthead {
+        border-width: 0px;
+    }
+
+    .no-print {
+        display: none;
+    }
+}
+
 
 /**********************Font and layout********************/
 
