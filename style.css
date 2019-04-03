@@ -41,6 +41,13 @@
     }
 }
 
+@media only screen and (max-device-width: 480px) {
+    .masthead {
+        border-right: 0px;
+        border-left: 10px;
+    }
+}
+
 
 /**********************Font and layout********************/
 
