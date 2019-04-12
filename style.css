@@ -109,3 +109,10 @@ p {
     display: inline-block;
     padding: 0em 1.6em 0em 0em;
 }
+
+
+/* Change color on hover/mouse-over */
+.masthead a:hover {
+  background-color: #ddd; /* Grey background color */
+  color: black; /* Black text color */
+}
