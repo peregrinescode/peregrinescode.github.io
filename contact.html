@@ -14,41 +14,33 @@
     <nav>
       <ul class="nav">
         <li>
-          <a style="text-decoration:none; color:black;" href="about.html">About</a>
+          <a style="text-decoration:none; color:rgb(36, 101, 199);" href="about.html">About</a>
         </li>
         <li>
-          <a style="text-decoration:none; color:black;" href="projects.html">Projects</a>
+          <a style="text-decoration:none; color:rgb(36, 101, 199);" href="research.html">Research</a>
         </li>
         <li>
-          <a style="text-decoration:none; color:black;" href="archive.html">Archive</a>
+          <a style="text-decoration:none; color:rgb(36, 101, 199);" href="projects.html">Projects</a>
+        </li>
+        <li>
+          <a style="text-decoration:none; color:rgb(36, 101, 199);" href="archive.html">Archive</a>
+        </li>
+        <li>
+          <a style="text-decoration:none; color:rgb(36, 101, 199);" href="curriculumvitae.html">CV</a>
+        </li>
+      </ul>
         </li>
       </ul>
     </nav>
   </header>
-
-  <div class="container">
-    <form action="action_page.php">
   
-      <label for="fname">First Name</label>
-      <input type="text" id="fname" name="firstname" placeholder="Your name..">
-  
-      <label for="lname">Last Name</label>
-      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-  
-      <label for="country">Country</label>
-      <select id="country" name="country">
-        <option value="australia">Australia</option>
-        <option value="canada">Canada</option>
-        <option value="usa">USA</option>
-      </select>
-  
-      <label for="subject">Subject</label>
-      <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-  
-      <input type="submit" value="Submit">
-  
-    </form>
-  </div>
+  <form action="/action_page.php">
+    First name:<br>
+    <input type="text" name="firstname" value="Mickey"><br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse"><br><br>
+    <input type="submit" value="Submit">
+  </form>
 
 </body>
 </html>
