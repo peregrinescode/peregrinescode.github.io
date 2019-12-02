@@ -174,3 +174,16 @@ hr {
 br {
     line-height: 200%;
  }
+
+/********************** Images **************************/
+ img.page {
+    height: 100%;
+    width: 100%;
+  }
+
+
+/******************** Figure captions ************************/
+  figcaption {
+    display: block;
+    text-align: center;
+  }
