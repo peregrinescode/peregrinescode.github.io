@@ -10,7 +10,7 @@
 
    <url>
 
-      <loc>https://rosswarren.net/about.html</loc>
+      <loc>https://rosswarren.net/blog.html</loc>
 
    </url>
 
@@ -23,6 +23,24 @@
    <url>
 
       <loc>https://rosswarren.net/archive.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://rosswarren.net/contact.html</loc>
+
+   </url>
+
+   <url>
+
+      <loc>https://rosswarren.net/curriculumvitae.html</loc>
+
+   </url>
+
+      <url>
+
+      <loc>https://rosswarren.net/research.html</loc>
 
    </url>
 
