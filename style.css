@@ -85,9 +85,9 @@ p {
     background-color: #CCC;
     margin: 0 -1.125em 1.5em -1.125em;
     padding: 0.75em 1.125em;
-    border-right: 1px black solid;
+    /*border-right: 1px black solid;
     border-bottom: 1px black solid;
-    border-left: 1px black solid;
+    border-left: 1px black solid;*/
 }
 
 .site-title {
