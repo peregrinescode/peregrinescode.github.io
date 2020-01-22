@@ -141,10 +141,11 @@ br {
     width: 100%;
   }
 
-.marginauto {
-        margin: 10px auto 20px;
-        display: block;
-    }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 
 /******************** Figure captions ************************/
@@ -152,3 +153,4 @@ br {
     display: block;
     text-align: center;
   }
+  
