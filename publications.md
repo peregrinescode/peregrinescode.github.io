@@ -3,7 +3,7 @@ title: Publications
 layout: default
 ---
 
-# Refereed papers in primary journals
+### Refereed papers in primary journals
 Ye H., Kesava S. V., Hardigree J. F. M., Brown R. E., Mazzotta G., Warren R., Skabara P. J. and Riede M. *Efficiency enhancement of small molecule organic solar cells using hexapropyltruxene as an interface layer.* Journal of Materials Chemistry C <b>8,</b> 14, 4909-4918 (2020)
 <br />
 [[pdf](/assets/pdfs/Ye-et-al-2020-Efficiency-enhancement-of-small-molecule-organic-solar-cells.pdf)]
@@ -25,7 +25,7 @@ AIP Advances <b>9,</b> 035202 (2019)
 [[doi](https://doi.org/10.1063/1.5080505)]
 
 
-# Thesis
+### Thesis
 Warren R.
 *Energy levels in organic semiconductors: tuning and doping.*
 University of Oxford (2020)
@@ -34,7 +34,7 @@ University of Oxford (2020)
 [[archive](https://ora.ox.ac.uk/objects/uuid:ffbf55a3-b3eb-44c6-8c66-44fd0ad279d4)]
 
 
-# Conference contributions (presenting author only)
+### Conference contributions (presenting author only)
 Warren R., Rice B. & Nelson J. 
 *Modelling molecular doping of organic semiconductors.* 
 International Conference on the Science and Technology of Synthetic Metals, Glasgow, UK (2020).

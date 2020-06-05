@@ -9,7 +9,7 @@ I'm Ross, a PhD student based at Oxford University studying condensed matter phy
 
 You can find my CV [here](/assets/pdfs/CV-RossWarren.pdf) (last updated: 6 May 2020).
 
-# Contact me
+### Contact me
 
 Email me at [ross.warren@pm.me]("mailto:ross.warren@pm.me").
 
