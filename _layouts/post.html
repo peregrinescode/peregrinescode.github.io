@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<p style="color:grey;">
+    {{ page.date | date: "%B %-d, %Y" }}
+</p>
+<hr style="border-top:grey;">
+{{ page.content }}
+
+<hr style="border-top:grey;">
+<p style="color:grey;">
+    For more posts, check out the <a style="text-decoration:none; color:rgb(36, 101, 199);" href="{{ "/archive/" | relative_url }}">archive</a>
+</p>

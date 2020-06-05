@@ -1,36 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+---
+layout: null
+search: exclude
+---
 
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-   <url>
-
-      <loc>https://rosswarren.net/index.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://rosswarren.net/blog.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://rosswarren.net/projects.html</loc>
-
-   </url>
-
-   <url>
-
-      <loc>https://rosswarren.net/archive.html</loc>
-
-   </url>
-
-
+    {% for page in site.pages %}
     <url>
+        <loc>{{page.url}}</loc>
+        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    {% endfor %}
 
-      <loc>https://rosswarren.net/publications.html</loc>
-
-   </url>
+    {% for post in site.posts %}
+    <url>
+        <loc>{{post.url}}</loc>
+        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    {% endfor %}
 
 </urlset>

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+
+{% for post in site.posts limit:1%}
+    <h2>
+        {{ post.title}}
+    </h2>
+    <p style="color:grey;">
+        {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+    <hr style="border-top:grey;">
+    {{ post.content }}
+{% endfor %}
+
+<hr style="border-top:grey;">
+<p style="color:grey;">
+    For more posts, check out the <a href="{{ "/archive/" | relative_url }}">archive</a>
+</p>
