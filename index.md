@@ -1,5 +1,4 @@
 ---
-title: Index
-layout: default
+title: Latest post
+layout: blog
 ---
-

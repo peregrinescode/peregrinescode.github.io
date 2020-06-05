@@ -1,14 +1,14 @@
 - title: Blog
-  url: /blog/
+  url: /index
 
 - title: Projects
-  url: /projects/
+  url: /projects
 
 - title: Archive
-  url: /archive/
+  url: /archive
 
 - title: Publications
-  url: /publications/
+  url: /publications
 
 - title: About
-  url: /about/
+  url: /about
