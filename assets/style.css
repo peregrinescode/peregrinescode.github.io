@@ -1,17 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 /***********************Layout****************************/
-
-@media screen and (max-width: 399px) {
+ /* Mobile layout */
+@media screen and (max-width: 500px) {
     html {
-        font-size: 13pt;
+        font-size: 11pt;
     }
     body {
-        max-width: 400px;
+        max-width: 499px;
+    }
+    .scaled {
+        transform: scale(0.6);
+        transform-origin: left;
     }
 }
 
-@media screen and (max-width: 1399px) and (min-width: 400px) {
+ /* Tabletish layout */
+@media screen and (max-width: 1399px) and (min-width: 500px) {
     html {
         font-size: 13pt;
     }
@@ -20,6 +25,7 @@
     }
 }
 
+ /* Monitor layout */
 @media screen and (min-width: 1400px) {
     html {
         font-size: 15pt;
@@ -44,6 +50,10 @@
     .masthead {
         border-right: 0px;
         border-left: 0px;
+    }
+    .scaled {
+        transform: scale(0.6);
+        transform-origin: left;
     }
 }
 

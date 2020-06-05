@@ -12,6 +12,6 @@ Next comes the viva!
 
 I kept track of my word count using a small bit of [python code](https://github.com/peregrinescode/TeXcountLogger) I wrote whilst procrastinating.
 
-{% include thesisWordCount.html %}
+<div class="scaled">{% include thesisWordCount.html %}</div>
 
 The interactive graph was made using python and [plotly](https://plot.ly/python/).
