@@ -89,6 +89,20 @@ p {
     margin: 1em 0px;
 }
 
+ /* Code block layout */
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+ /* Code block layout */
+code {
+  background-color: #eee;
+  border: 1px solid #999;
+  padding: 3px;
+}
 
 /**********************TITLE BAR**************************/
 .masthead {
@@ -123,9 +137,9 @@ p {
 
 /**********************TABLES**************************/
 table, th, td {
-    border: 0px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
-    padding: 2px;
+    padding: 5px;
     text-align: left;
 }
 

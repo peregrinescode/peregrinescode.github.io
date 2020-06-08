@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{% for post in site.posts limit:1%}
+{% for post in site.posts limit:2%}
     <h3>
         {{ post.title}}
     </h3>
@@ -12,6 +12,7 @@ layout: default
     </p>
     <hr style="border-top:grey;">
     {{ post.content }}
+    <br>
 {% endfor %}
 
 <hr style="border-top:grey;">
