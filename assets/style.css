@@ -4,7 +4,7 @@
  /* Mobile layout */
 @media screen and (max-width: 500px) {
     html {
-        font-size: 12pt;
+        font-size: 13pt;
     }
     body {
         max-width: 499px;
