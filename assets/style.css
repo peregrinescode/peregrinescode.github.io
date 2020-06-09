@@ -4,7 +4,7 @@
  /* Mobile layout */
 @media screen and (max-width: 500px) {
     html {
-        font-size: 13pt;
+        font-size: 11pt;
     }
     body {
         max-width: 499px;
@@ -123,7 +123,7 @@ code {
 }
 
 .masthead ul.nav {
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 0px 0.25em;
     padding: 0px;
     list-style-type: none;
