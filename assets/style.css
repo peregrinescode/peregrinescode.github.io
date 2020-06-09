@@ -4,15 +4,14 @@
  /* Mobile layout */
 @media screen and (max-width: 550px) {
     html {
-        font-size: 2.8vw;
+        font-size: 11pt;
     }
     body {
-        max-width: 93.5%;
+        max-width: 98%;
     }
     .scaled {
         transform: scale(0.6);
         transform-origin: left;
-
     }
 }
 
@@ -96,6 +95,7 @@ pre code {
   border: 1px solid #999;
   display: block;
   padding: 20px;
+  max-width: 98%;
 }
 
  /* Code block layout */
@@ -124,7 +124,7 @@ code {
 }
 
 .masthead ul.nav {
-    font-size: 1.1em;
+    font-size: 1em;
     margin: 0px 0.25em;
     padding: 0px;
     list-style-type: none;
