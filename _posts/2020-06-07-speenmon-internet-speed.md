@@ -57,7 +57,7 @@ So to setup a crontab to run a script every 15 minutes:
 With cron scheduled to run a speedtest every 15 minutes, I monitored my internet connection for several weeks preceding my viva. I have plotted the results, using seaborn and matplotlib, below:
 
 <figure>
-    <img class="center" src="/assets/imgs/ross-warren-speed_v_time-NI.png" alt="speedmon output">
+    <img class="page" src="/assets/imgs/ross-warren-speed_v_time-NI.png" alt="speedmon output">
     <figcaption>
       My ping time, download and upload results having run a speedtest every 15 minutes for several weeks before my viva.
     </figcaption>
