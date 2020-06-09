@@ -16,7 +16,9 @@ The [code](https://github.com/peregrinescode/speedmon) is based on two software 
 [Speedtest.net](https://www.speedtest.net/) is a handy website for checking your ping time, download and upload speeds:
 
 <figure>
-    <img class="center" src="/assets/imgs/speedtest-output.png" alt="Speedtest.net output">
+    <div class="scaled">
+        <img class="center" src="/assets/imgs/speedtest-output.png" alt="Speedtest.net output">
+    </div>
 </figure> 
 
 Importantly, there is also a Linux-native command line interface which we can wrap with a script to track internet speed over time. To schedule such a script to run automatically, we use cron.
