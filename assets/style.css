@@ -9,10 +9,15 @@
     body {
         max-width: 96vw;
     }
+    .center {
+        max-width: 80vw;
+        max-height: 80vh;
+        margin: auto;
+    } 
     .scaled {
         transform: scale(1.0);
         transform-origin: left;
-    }
+    } 
 }
 
  /* Tabletish layout */
