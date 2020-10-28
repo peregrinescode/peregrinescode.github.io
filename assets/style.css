@@ -4,10 +4,10 @@
  /* Mobile layout */
 @media screen and (max-width: 550px) {
     html {
-        font-size: 11pt;
+        font-size: 13pt;
     }
     body {
-        max-width: 549pt;
+        max-width: 90vw;
     }
     .scaled {
         transform: scale(0.6);
