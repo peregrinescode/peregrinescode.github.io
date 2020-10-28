@@ -48,8 +48,8 @@
 
 @media only screen and (max-device-width: 480px) {
     .masthead {
-        border-right: 0px;
-        border-left: 0px;
+        /*border-right: 0px;*/
+        /*border-left: 0px;*/
     }
     .scaled {
         transform: scale(0.6);
