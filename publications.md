@@ -38,14 +38,14 @@ University of Oxford (2020)
 Warren R., Rice B. & Nelson J. 
 *Modelling molecular doping of organic semiconductors.* 
 International Conference on the Science and Technology of Synthetic Metals, Glasgow, UK (2020).
-POSTPONED DUE TO CORVID-19
+*Postponed due to covid-19*
 <br />
 [[abstract](/assets/pdfs/ICSM-2020-Doping-final.pdf)]
 
 Warren R., Rice B. & Nelson J. 
 *Modelling molecular doping of organic semiconductors.* 
 Thomas Young Centre International Workshop on Organic Materials, London, UK (2020).
-POSTPONED DUE TO CORVID-19
+*Postponed due to covid-19*
 <br />
 [[abstract](/assets/pdfs/IWOM-2020-Doping.pdf)]
 
