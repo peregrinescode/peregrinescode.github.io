@@ -13,4 +13,4 @@ Python code for interacting with a Keithley 2636B SMU.
 Logs output of texcount to a csv file for advanced word counting analysis.
 
 ### [speedmon](https://github.com/peregrinescode/speedmon)
-Simple cron job for logging internet speed, plus some plotting features.> A basic website (to be hosted on a raspberry pi).
+Simple cron job for logging internet speed, plus some plotting features.
