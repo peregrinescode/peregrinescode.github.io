@@ -1,14 +1,14 @@
-- title: Blog
+- title: ./peregrinescode
   url: /index
 
-- title: Projects
-  url: /projects
+# - title: Projects
+#   url: /projects
 
-- title: Archive
+- title: archive
   url: /archive
 
-- title: Publications
-  url: /publications
+# - title: Publications
+#   url: /publications
 
-- title: About
+- title: about
   url: /about
