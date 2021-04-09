@@ -4,6 +4,11 @@ layout: default
 ---
 
 ### Refereed papers in primary journals
+Privitera A., Warren R., Londi G., Kaienburg P., Liu J., Sperlich A., Lauritzen A. E., Thimm O., Ardavan A., Beljonne D., and Riede M. *Electron spin as fingerprint for charge generation and transport in doped organic semiconductors.* Journal of Materials Chemistry C <b>9,</b> 2944-2954 (2021)
+<br />
+[[pdf](/assets/pdfs/Privitera-et-al-2021-Electron-spin-as-fingerprint.pdf)]
+[[doi](https://doi.org/10.1039/D0TC06097F)]
+
 Ye H., Kesava S. V., Hardigree J. F. M., Brown R. E., Mazzotta G., Warren R., Skabara P. J. and Riede M. *Efficiency enhancement of small molecule organic solar cells using hexapropyltruxene as an interface layer.* Journal of Materials Chemistry C <b>8,</b> 14, 4909-4918 (2020)
 <br />
 [[pdf](/assets/pdfs/Ye-et-al-2020-Efficiency-enhancement-of-small-molecule-organic-solar-cells.pdf)]
