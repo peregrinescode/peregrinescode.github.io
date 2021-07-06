@@ -16,4 +16,5 @@ For my reaserch, check out my publications [here]({{ "/publications" | relative_
 <img src="/assets/icons/email.svg" alt="email icon" hspace="10" vspace="3" style="float:left;height:20px;border:10;">
 [ross.warren@pm.me]("mailto:ross.warren@pm.me")
 
-<img src="/assets/icons/twitter.png" alt="twitter icon" hspace="10" vspace="4" style="float:left;height:20px;border:0;"> [@_rosswarren]("https://twitter.com/_rosswarren")
+<img src="/assets/icons/twitter.png" alt="twitter icon" hspace="10" vspace="4" style="float:left;height:20px;border:0;"> 
+<a href="https://twitter.com/_rosswarren" target="_blank" rel="noopener noreferrer">@_rosswarren</a>
