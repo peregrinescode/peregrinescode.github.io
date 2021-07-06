@@ -7,7 +7,7 @@ layout: default
 
 I'm Ross, a physicist currently working at HU Berlin.
 
-I created this website as side project, to learn a little about how the internet works and websites are coded.
+I created this website as a side project, to learn a little about how the internet works and how websites are coded.
 
 <!-- You can find my CV [here](/assets/pdfs/CV-RossWarren.pdf) (last updated: 6 May 2020). -->
 
