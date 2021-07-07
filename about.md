@@ -3,11 +3,11 @@ title: About me
 layout: default
 ---
 
-<img src="/assets/imgs/ross-warren-photo3.jpg" alt="Ross Warren Photo" hspace="20" style="float:left;width:180px;height:180px;border:0;">
+<img src="/assets/imgs/ross-warren-photo3.jpg" alt="Ross Warren Photo" hspace="20" style="float:left;width:200px;height:200px;border:0;">
 
 I'm Ross, a physicist currently working at HU Berlin.
 
-I created this website as a side project, to learn a little about how the internet works and how websites are coded.
+I created this basic website as a side project, to learn a little about how the internet works and how websites are coded.
 
 <!-- You can find my CV [here](/assets/pdfs/CV-RossWarren.pdf) (last updated: 6 May 2020). -->
 
