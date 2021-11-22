@@ -6,7 +6,6 @@ layout: default
 ### Refereed papers in primary journals
 Sakai N., Warren R., Zhang F., Nayak S., Liu J., Kesava S., Lin YH., Biswal H. S., Lin X., Grovenor C., Malinauskas T., Basu A., Anthropoulos T.D., Getautis V., Kahn A., Riede M., Nayak P. K., and Snaith H. J. *Adduct-based p-doping of organic semiconductors.* Nature Materials (2021)
 <br />
-[[pdf](/assets/pdfs/s41563-021-00980-x.pdf)]
 [[doi](https://doi.org/10.1038/s41563-021-00980-x)]
 
 Privitera A., Warren R., Londi G., Kaienburg P., Liu J., Sperlich A., Lauritzen A. E., Thimm O., Ardavan A., Beljonne D., and Riede M. *Electron spin as fingerprint for charge generation and transport in doped organic semiconductors.* Journal of Materials Chemistry C <b>9,</b> 2944-2954 (2021)
