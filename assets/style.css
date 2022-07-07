@@ -171,6 +171,11 @@ a:active {
   color: green;
 }
 
+.next {
+  color: white;
+  float: right;
+}
+
 
 /******************** Nav bar ************************/
 
