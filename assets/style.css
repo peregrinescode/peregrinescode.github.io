@@ -2,7 +2,7 @@
 
 /***********************Layout****************************/
  /* Mobile layout */
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 660px) {
     html {
         font-size: 13pt;
     }
@@ -38,7 +38,7 @@
     }
 
  /* Tabletish layout */
-@media screen and (max-width: 1399px) and (min-width: 550px) {
+@media screen and (max-width: 1399px) and (min-width: 660px) {
     html {
         font-size: 13pt;
     }
@@ -64,19 +64,22 @@
 @media screen and (min-width: 1400px) {
     html {
         font-size: 15pt;
+    }
+    body {
+        max-width: 96vw;
         margin: 0 auto;
         padding: 0 0.75em;
     }
     h1 {
-      margin: 1.2rem 0px;
+      margin: 1.2rem auto;
     }
 
     h2 {
-      margin: 1.2rem 0px;
+      margin: 1.2rem auto;
     }
 
     p {
-        margin: 1em 0px;
+        margin: 1em auto;
     }
 }
 
@@ -271,7 +274,7 @@ a:active {
 
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .topnav a:nth-child(3) {display: none;}
   .topnav a.icon {
     float: right;
@@ -280,7 +283,7 @@ a:active {
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
