@@ -222,8 +222,14 @@ a:active {
 
 .next {
   color: white;
+  float: left;
+}
+
+.previous {
+  color: white;
   float: right;
 }
+
 
 
 /******************** Nav bar ************************/

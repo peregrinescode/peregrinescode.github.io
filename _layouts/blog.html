@@ -2,21 +2,24 @@
 layout: default
 ---
 
+{% assign latest = site.posts[0] %}
 
-{% for post in site.posts limit:1%}
-    <h3>
-        {{ post.title}}
-    </h3>
-    <p style="color:grey;">
-        {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-    <hr style="border-top:grey;">
-    {{ post.content }}
-    <br>
-{% endfor %}
+<h1 style="color:grey;">
+    Latest post
+</h1>
 
+<h1>
+    {{ latest.title}}
+</h1>
+<p style="color:grey;">
+    {{ latest.date | date: "%B %-d, %Y" }}
+</p>
+<hr style="border-top:grey;">
+{{ latest.content }}
+<br>
 
-<a href="#" class="next">Next post &raquo</a>
+{% assign previous = site.posts[1] %}
+<a href="{{ previous.url }}" class="previous">Next post &raquo</a>
 <br />
 
 <hr style="border-top:grey;">

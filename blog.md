@@ -1,4 +1,4 @@
 ---
-title: Latest post
+title:
 layout: blog
 ---
