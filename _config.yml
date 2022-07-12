@@ -7,3 +7,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 email: helloworld@rosswarren.net
 twitter_username: _rosswarren
 github_username:  peregrinescode
+
+
+plugins: ['jekyll/scholar']
+scholar:
+  sort_by: year, month
+  order: descending
+  style: _bibliography/mystyle.csl
+  bibliography_template: bib
