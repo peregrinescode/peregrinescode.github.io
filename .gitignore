@@ -1,4 +1,5 @@
-_site/
-.jekyll-cache/
-vendor/
-.bundle/
+# Ignore everything
+*
+
+# except this folder
+!_site/
