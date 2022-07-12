@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href=/assets/style.css>
-        <title>Publications | peregrinescode</title>
-        <meta name="description" content="Ross Warren's personal website.">
-    </head>
-
-    <header class="masthead">
-        <!-- Top Navigation Menu -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="http://localhost:4000/assets/js/mobile-nav.js"></script>
-
-        <div class="topnav" id="myTopnav">
-            
-                <a style="text-decoration:none;" href="/index">about</a>
-            
-                <a style="text-decoration:none;" href="/blog">blog</a>
-            
-                <a style="text-decoration:none;" href="/publications">publications</a>
-            
-                <a style="text-decoration:none;" href="/projects">projects</a>
-            
-                <a style="text-decoration:none;" href="/archive">archive</a>
-            
-          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>
-        </div>
-
-    </header>
-
-    <h1>
-        Publications
-    </h1>
-
-    <body>
-         <h3 id="refereed-articles-in-primary-journals">Refereed articles in primary journals</h3>
+I"V4<h3 id="refereed-articles-in-primary-journals">Refereed articles in primary journals</h3>
 
 <ol class="bibliography"><li><div class="text-justify">
     <span id="scaccabarozzi_doping_2022">Alberto D. Scaccabarozzi, Aniruddha Basu, Filip Aniés, Jian Liu, Osnat Zapata-Arteaga, Ross Warren, Yuliar Firdaus, Mohamad Insan Nugraha, Yuanbao Lin, Mariano Campoy-Quiles, Norbert Koch, Christian Müller, Leonidas Tsetseris, Martin Heeney, and Thomas D. Anthopoulos. <b>Doping Approaches for Organic Semiconductors</b>. <i>Chemical Reviews</i>, 122(4) :4420–4492, 2022.</span>
@@ -394,5 +356,4 @@
   year = {2018}
 }
 </pre></div> --></li></ol>
-
-    </body>
+:ET

@@ -1,55 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href=/assets/style.css>
-        <title> | peregrinescode</title>
-        <meta name="description" content="Ross Warren's personal website.">
-    </head>
-
-    <header class="masthead">
-        <!-- Top Navigation Menu -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="http://localhost:4000/assets/js/mobile-nav.js"></script>
-
-        <div class="topnav" id="myTopnav">
-            
-                <a style="text-decoration:none;" href="/index">about</a>
-            
-                <a style="text-decoration:none;" href="/blog">blog</a>
-            
-                <a style="text-decoration:none;" href="/publications">publications</a>
-            
-                <a style="text-decoration:none;" href="/projects">projects</a>
-            
-                <a style="text-decoration:none;" href="/archive">archive</a>
-            
-          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>
-        </div>
-
-    </header>
-
-    <h1>
-        
-    </h1>
-
-    <body>
-         
-
-<h1 style="color:grey;">
-    Latest post
-</h1>
-
-<h1>
-    How to monitor internet speed using cron and speedtest
-</h1>
-<p style="color:grey;">
-    June 6, 2020
-</p>
-<hr style="border-top:grey;">
-<p>I recently defended my PhD thesis remotely (and successfully!)</p>
+I"é<p>I recently defended my PhD thesis remotely (and successfully!)</p>
 
 <p>As my examiners and I were all ordered to remain at home due to the coronavirus pandemic, the viva was done on Zoom. I was concerned that the internet from my mobile hotspot wouldnâ€™t be up to the job, so in order to check that we would be OK for the ~3 hour exam, I wrote a short bit of code to <strong>monitor my internet speed</strong>.</p>
 
@@ -131,17 +80,4 @@
 </figure>
 
 <p>As you can see, my internet connection was fairly consistent throughout the day. There are a few outliers with long ping times which are a result of my phone losing signal. Luckily these drops in signal were rare, and the connection was just about good enough for my entire exam.</p>
-
-<br>
-
-
-<a href="/thesis,/word/count/2020/01/17/thesis-submission.html" class="previous">Next post &raquo</a>
-<br />
-
-<hr style="border-top:grey;">
-
-<p style="color:grey;" >
-    For a complete list of posts, check out the <a href="/archive">archive</a>
-</p>
-
-    </body>
+:ET

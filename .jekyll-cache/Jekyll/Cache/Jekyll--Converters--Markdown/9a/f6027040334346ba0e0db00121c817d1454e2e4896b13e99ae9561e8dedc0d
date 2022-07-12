@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href=/assets/style.css>
-        <title>Thesis Submission! | peregrinescode</title>
-        <meta name="description" content="Ross Warren's personal website.">
-    </head>
-
-    <header class="masthead">
-        <!-- Top Navigation Menu -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="http://localhost:4000/assets/js/mobile-nav.js"></script>
-
-        <div class="topnav" id="myTopnav">
-            
-                <a style="text-decoration:none;" href="/index">about</a>
-            
-                <a style="text-decoration:none;" href="/blog">blog</a>
-            
-                <a style="text-decoration:none;" href="/publications">publications</a>
-            
-                <a style="text-decoration:none;" href="/projects">projects</a>
-            
-                <a style="text-decoration:none;" href="/archive">archive</a>
-            
-          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>
-        </div>
-
-    </header>
-
-    <h1>
-        Thesis Submission!
-    </h1>
-
-    <body>
-         <p style="color:grey;">
-    January 17, 2020
-</p>
-<hr style="border-top:grey;">
-<p>I’m very pleased to say my thesis has been submitted.</p>
+I">V4<p>I’m very pleased to say my thesis has been submitted.</p>
 
 <p>Next comes the viva!</p>
 
@@ -133,13 +91,4 @@ var n,a=t("./lib/build-log"),i=t("./lib/epsilon"),o=t("./lib/intersecter"),s=t("
 </html></div>
 
 <p>The interactive graph was made using python and <a href="https://plot.ly/python/">plotly</a>.</p>
-
-
-<a href="/conference,/japan/2019/12/13/Presentation-Yokohama.html" class="previous">Next post &raquo</a>
-<br />
-
-<hr style="border-top:grey;">
-<p style="color:grey;">
-    For more posts, check out the <a style="text-decoration:none; color:rgb(36, 101, 199);" href="/archive">archive</a>
-</p>
-    </body>
+:ET
