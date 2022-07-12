@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href=/assets/style.css>
+        <title> | peregrinescode</title>
+        <meta name="description" content="Ross Warren's personal website.">
+    </head>
+
+    <header class="masthead">
+        <!-- Top Navigation Menu -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://rosswarren.net/assets/js/mobile-nav.js"></script>
+
+        <div class="topnav" id="myTopnav">
+            
+                <a style="text-decoration:none;" href="/index">about</a>
+            
+                <a style="text-decoration:none;" href="/blog">blog</a>
+            
+                <a style="text-decoration:none;" href="/publications">publications</a>
+            
+                <a style="text-decoration:none;" href="/projects">projects</a>
+            
+                <a style="text-decoration:none;" href="/archive">archive</a>
+            
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+
+    </header>
+
+    <h1>
+        
+    </h1>
+
+    <body>
+         
+
+<h1 style="color:grey;">
+    Latest post
+</h1>
+
+<h1>
+    How to monitor internet speed using cron and speedtest
+</h1>
+<p style="color:grey;">
+    June 6, 2020
+</p>
+<hr style="border-top:grey;">
+<p>I recently defended my PhD thesis remotely (and successfully!)</p>
+
+<p>As my examiners and I were all ordered to remain at home due to the coronavirus pandemic, the viva was done on Zoom. I was concerned that the internet from my mobile hotspot wouldn’t be up to the job, so in order to check that we would be OK for the ~3 hour exam, I wrote a short bit of code to <strong>monitor my internet speed</strong>.</p>
+
+<p>The <a href="https://github.com/peregrinescode/speedmon">code</a> is based on two software utilities, the speedtest cli and cron.</p>
+
+<h3 id="speedtest">Speedtest</h3>
+
+<p><a href="https://www.speedtest.net/">Speedtest.net</a> is a handy website for checking your ping time, download and upload speeds:</p>
+
+<figure>
+    <div>
+        <img class="center" src="/assets/imgs/speedtest-output.png" alt="Speedtest.net output" />
+    </div>
+</figure>
+
+<p>Importantly, there is also a Linux-native command line interface which we can wrap with a script to track internet speed over time. To schedule such a script to run automatically, we use cron.</p>
+
+<h3 id="cron">Cron</h3>
+
+<p>From <a href="https://en.wikipedia.org/wiki/Cron">wikipedia</a>:</p>
+<blockquote>
+  <p>cron is the time-based job scheduler in Unix-like computer operating systems. cron enables users to schedule jobs (commands or shell scripts) to run periodically at certain times, dates or intervals. It is commonly used to automate system maintenance or administration.</p>
+</blockquote>
+
+<p>To interact with cron, we create a <em>crontab</em> from the command line <code class="language-plaintext highlighter-rouge">crontab -e</code> with the following format:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>minute hour day_of_month month day_of_week command
+</code></pre></div></div>
+<p>where</p>
+<ul>
+  <li><em>minute</em> takes values 0 to 59</li>
+  <li><em>hour</em>  takes values 0 to 23.</li>
+  <li><em>day_of_month</em> takes values 1 to 31.</li>
+  <li><em>month values</em> takes values 1 to 12.</li>
+  <li><em>day_of_week</em> takes values 0 to 6, with 0 representing Sunday.</li>
+</ul>
+
+<p>We can also use the following symbols:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>*</td>
+      <td>every possible value</td>
+    </tr>
+    <tr>
+      <td>,</td>
+      <td>separate multiple values</td>
+    </tr>
+    <tr>
+      <td>-</td>
+      <td>range values</td>
+    </tr>
+    <tr>
+      <td>/</td>
+      <td>specify a periodicity</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>So to setup a crontab to run a script every 15 minutes:</p>
+<pre><code class="language-(bash)">*/15 * * * * /path/to/script/cron_speedtest.sh
+</code></pre>
+
+<h3 id="results">Results</h3>
+
+<p>With cron scheduled to run a speedtest every 15 minutes, I monitored my internet connection for several weeks preceding my viva. I have plotted the results, using seaborn and matplotlib, below:</p>
+
+<figure>
+    <img class="center" src="/assets/imgs/ross-warren-speed_v_time-NI.png" alt="speedmon output" />
+    <figcaption>
+      My ping time, download and upload results having run a speedtest every 15 minutes for several weeks before my viva.
+    </figcaption>
+</figure>
+
+<p>As you can see, my internet connection was fairly consistent throughout the day. There are a few outliers with long ping times which are a result of my phone losing signal. Luckily these drops in signal were rare, and the connection was just about good enough for my entire exam.</p>
+
+<br>
+
+
+<a href="/thesis,/word/count/2020/01/17/thesis-submission.html" class="previous">Next post &raquo</a>
+<br />
+
+<hr style="border-top:grey;">
+
+<p style="color:grey;" >
+    For a complete list of posts, check out the <a href="/archive">archive</a>
+</p>
+
+    </body>

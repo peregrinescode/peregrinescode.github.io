@@ -1,5 +1,9 @@
 # Ignore everything
-*
+/*
 
-# except this folder
+# Except
+!.gitignore
+!README.md
+
+# and this folder
 !_site/
