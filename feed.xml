@@ -3,15 +3,15 @@
 
     <channel>
         <title>peregrinescode</title>
-        <link>http://localhost:4000</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+        <link>https://rosswarren.net</link>
+        <atom:link href="https://rosswarren.net/feed.xml" rel="self" type="application/rss+xml" />
         <description>Ross Warren is physicist based at the University of Oxford. This website hosts a blog, publications, projects and a CV.</description>
-        <lastBuildDate>Tue, 12 Jul 2022 15:28:43 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 16:01:26 +0200</lastBuildDate>
         
         <item>
             <title>How to monitor internet speed using cron and speedtest</title>
             <link>
-                http://localhost:4000/internet,/software/2020/06/06/speenmon-internet-speed.html
+                https://rosswarren.net/internet,/software/2020/06/06/speenmon-internet-speed.html
             </link>
             <description>
                 &lt;p&gt;I recently defended my PhD thesis remotely (and successfully!)&lt;/p&gt;
@@ -20,14 +20,14 @@
             </description>
             <pubDate>Sat, 06 Jun 2020 19:00:00 +0200</pubDate>
             <guid>
-                http://localhost:4000/internet,/software/2020/06/06/speenmon-internet-speed.html
+                https://rosswarren.net/internet,/software/2020/06/06/speenmon-internet-speed.html
             </guid>
         </item>
         
         <item>
             <title>Thesis Submission!</title>
             <link>
-                http://localhost:4000/thesis,/word/count/2020/01/17/thesis-submission.html
+                https://rosswarren.net/thesis,/word/count/2020/01/17/thesis-submission.html
             </link>
             <description>
                 &lt;p&gt;I’m very pleased to say my thesis has been submitted.&lt;/p&gt;
@@ -41,14 +41,14 @@
             </description>
             <pubDate>Fri, 17 Jan 2020 19:14:42 +0100</pubDate>
             <guid>
-                http://localhost:4000/thesis,/word/count/2020/01/17/thesis-submission.html
+                https://rosswarren.net/thesis,/word/count/2020/01/17/thesis-submission.html
             </guid>
         </item>
         
         <item>
             <title>Presentation in Yokohama</title>
             <link>
-                http://localhost:4000/conference,/japan/2019/12/13/Presentation-Yokohama.html
+                https://rosswarren.net/conference,/japan/2019/12/13/Presentation-Yokohama.html
             </link>
             <description>
                 &lt;p&gt;I got the chance to present my work one final time in 2019 in Yokohama, Japan.&lt;/p&gt;
@@ -60,14 +60,14 @@
             </description>
             <pubDate>Fri, 13 Dec 2019 10:00:00 +0100</pubDate>
             <guid>
-                http://localhost:4000/conference,/japan/2019/12/13/Presentation-Yokohama.html
+                https://rosswarren.net/conference,/japan/2019/12/13/Presentation-Yokohama.html
             </guid>
         </item>
         
         <item>
             <title>Paper Published!</title>
             <link>
-                http://localhost:4000/paper,/molecular/doping/2019/12/05/Paper-nat-comms.html
+                https://rosswarren.net/paper,/molecular/doping/2019/12/05/Paper-nat-comms.html
             </link>
             <description>
                 &lt;h3 id=&quot;controlling-energy-levels-and-fermi-level-en-route-to-fully-tailored-energetics-in-organic-semiconductors&quot;&gt;Controlling energy levels and Fermi level en route to fully tailored energetics in organic semiconductors&lt;/h3&gt;
@@ -80,14 +80,14 @@
             </description>
             <pubDate>Thu, 05 Dec 2019 10:00:00 +0100</pubDate>
             <guid>
-                http://localhost:4000/paper,/molecular/doping/2019/12/05/Paper-nat-comms.html
+                https://rosswarren.net/paper,/molecular/doping/2019/12/05/Paper-nat-comms.html
             </guid>
         </item>
         
         <item>
             <title>Poster presentation at Tokyo Tech</title>
             <link>
-                http://localhost:4000/poster,/presentation,/molecular/doping/2019/11/18/Poster-Tokyo-Tech.html
+                https://rosswarren.net/poster,/presentation,/molecular/doping/2019/11/18/Poster-Tokyo-Tech.html
             </link>
             <description>
                 &lt;p&gt;I presented a poster entitled &lt;em&gt;Energy levels in molecular doping of organic semiconductors&lt;/em&gt; at the 3rd Workshop on Plastic Electronics and Related Science and Technology in Tokyo, Japan.&lt;/p&gt;
@@ -97,14 +97,14 @@
             </description>
             <pubDate>Mon, 18 Nov 2019 10:00:00 +0100</pubDate>
             <guid>
-                http://localhost:4000/poster,/presentation,/molecular/doping/2019/11/18/Poster-Tokyo-Tech.html
+                https://rosswarren.net/poster,/presentation,/molecular/doping/2019/11/18/Poster-Tokyo-Tech.html
             </guid>
         </item>
         
         <item>
             <title>Poster presentation at Imperial College</title>
             <link>
-                http://localhost:4000/poster,/presentation,/molecular/doping/2019/09/25/Poster-Imperial.html
+                https://rosswarren.net/poster,/presentation,/molecular/doping/2019/09/25/Poster-Imperial.html
             </link>
             <description>
                 &lt;p&gt;For the Plastic Electronics Centre for Doctoral Training (PE-CDT) Symposium, I presented a poster entitled &lt;em&gt;Tuning the ambipolar behaviour of organic field effect transistors&lt;/em&gt;.
@@ -115,14 +115,14 @@ The symposium was held at Imperial College London, UK.&lt;/p&gt;
             </description>
             <pubDate>Wed, 25 Sep 2019 11:00:00 +0200</pubDate>
             <guid>
-                http://localhost:4000/poster,/presentation,/molecular/doping/2019/09/25/Poster-Imperial.html
+                https://rosswarren.net/poster,/presentation,/molecular/doping/2019/09/25/Poster-Imperial.html
             </guid>
         </item>
         
         <item>
             <title>Oral presentation at Fpi14</title>
             <link>
-                http://localhost:4000/presentation,/molecular/doping/2019/06/06/Presentation-Berlin.html
+                https://rosswarren.net/presentation,/molecular/doping/2019/06/06/Presentation-Berlin.html
             </link>
             <description>
                 &lt;p&gt;I gave a talk entitled &lt;em&gt;The effect of energy levels on the doping process&lt;/em&gt; at 14th International Symposium on Functional π-Electron Systems, Berlin, Germany.&lt;/p&gt;
@@ -133,7 +133,7 @@ The symposium was held at Imperial College London, UK.&lt;/p&gt;
             </description>
             <pubDate>Thu, 06 Jun 2019 11:00:00 +0200</pubDate>
             <guid>
-                http://localhost:4000/presentation,/molecular/doping/2019/06/06/Presentation-Berlin.html
+                https://rosswarren.net/presentation,/molecular/doping/2019/06/06/Presentation-Berlin.html
             </guid>
         </item>
         
