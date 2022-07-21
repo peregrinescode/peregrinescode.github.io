@@ -3,7 +3,7 @@ title: About me
 layout: default
 ---
 
-<img src="/assets/imgs/ross-warren-photo3.jpg" alt="Ross Warren Photo" hspace="20" style="float:right;width:220px;height:220px;border:10;">
+<img src="/assets/imgs/ross-warren-photo3.jpg" alt="Ross Warren Photo" hspace="20" style="float:right;width:200px;height:200px;border:10;">
 
 I'm Ross, a physicist currently working at HU Berlin.
 
