@@ -3,6 +3,9 @@ title: Projects
 layout: default
 ---
 
+### [Tweeting Raspberry Pi](https://mobile.twitter.com/RPi3_Sensors)
+A Raspberry Pi tweeting atmospheric measurements.
+
 ### [This website](https://github.com/peregrinescode/peregrinescode.github.io)
 A basic website (to be hosted on a raspberry pi).
 

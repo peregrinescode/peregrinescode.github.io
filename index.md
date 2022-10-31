@@ -7,7 +7,7 @@ layout: default
 
 I'm Ross, a physicist currently working at HU Berlin.
 
-I built this website to learn a little about how the internet works and websites are created.
+I built this website to learn a little about how the internet works, and how websites are created.
 
 <!-- You can find my CV [here](/assets/pdfs/CV-RossWarren.pdf) (last updated: 6 May 2020). -->
 
@@ -18,6 +18,3 @@ For my reaserch, check out my publications [here]({{ "/publications" | relative_
 
 <img src="/assets/icons/security.png" alt="PGP icon" hspace="10" vspace="3" style="float:left;height:20px;width:20px;border:10;">
 <a href="/assets/asc/publickey-helloworld@rosswarren.net-0x2E45E40D.asc" target="_top">PGP key</a>
-
-<img src="/assets/icons/twitter.png" alt="twitter icon" hspace="10" vspace="4" style="float:left;height:20px;width:20px;border:0;"> 
-<a href="https://twitter.com/_rosswarren" target="_blank" rel="noopener noreferrer">@_rosswarren</a>
