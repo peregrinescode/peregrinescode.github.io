@@ -3,7 +3,7 @@ title: Publications
 layout: default
 ---
 
-### Refereed articles in primary journals
+### Refereed articles
 
 {% bibliography -q @article %}
 
